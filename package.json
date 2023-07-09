@@ -21,7 +21,7 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/rishavbhowmiktgs/chat_system_server#readme",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.6.2",
     "socket.io": "^2.4.0"
   }
