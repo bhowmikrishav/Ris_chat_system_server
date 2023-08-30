@@ -22,7 +22,7 @@
   "homepage": "https://bitbucket.org/rishavbhowmiktgs/chat_system_server#readme",
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^3.6.2",
+    "mongodb": "^3.6.10",
     "socket.io": "^2.4.0"
   }
 }
